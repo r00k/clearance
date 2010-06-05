@@ -37,7 +37,7 @@ This:
 * inserts Clearance::User into your User model
 * inserts Clearance::Authentication into your ApplicationController
 * inserts Clearance::Routes.draw(map) into your config.routes.rb
-* created a migration that either creates a users table or adds only missing columns
+* creates a migration that either creates a users table or adds only missing columns
 * prints further instructions
 
 Usage
